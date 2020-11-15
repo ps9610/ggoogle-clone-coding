@@ -67,7 +67,6 @@ a {
 transform: rotate(-20deg);
 }
 
-
 .center-container .center__search{
     display: flex;
     justify-content: space-between;
@@ -85,7 +84,7 @@ transform: rotate(-20deg);
 }
 
 .center__search .search__column .input__comment:focus{
-    outline: none;
+    outline: none; 
 }
 
 .center__search:hover{
